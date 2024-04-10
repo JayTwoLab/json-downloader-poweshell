@@ -22,13 +22,13 @@
 
 - :one: How to use it in Windows Command Prompt
 
- - Ability to only download files
+   - Only download files
 
 ```cmd
 powershell -ExecutionPolicy Bypass -File main.ps1 json test.json
 ```
 
- - Ability to unzip the file after downloading it
+   - Unzip the file after downloading it
  
 ```cmd
 powershell -ExecutionPolicy Bypass -File main.ps1 7z test.json
@@ -36,19 +36,19 @@ powershell -ExecutionPolicy Bypass -File main.ps1 7z test.json
 
 - :two: How to use it in Powershell
 
- - Temporarily change policy in Powershell
+   - Temporarily change policy in Powershell
  
 ```ps1
 Set-ExecutionPolicy Bypass -Scope Process -Force
 ``` 
 
- - Ability to only download files
+   - Only download files
 
 ```ps1
 .\main.ps1 json .\test.json
 ```
 
- - Ability to unzip the file after downloading it
+   - Unzip the file after downloading it
  
 ```ps1
 .\main.ps1 7z .\test.json
