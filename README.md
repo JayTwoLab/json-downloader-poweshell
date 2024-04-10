@@ -20,7 +20,7 @@ json-downloader for powershell <img src="https://j2doll.github.io/j2doll/img/kr.
 
 ## Usage <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```사용법```
 
-- :one: How to use it in Windows ```Command Prompt```
+- :one: How to use it in Windows Command Prompt
 
  - Ability to only download files
 
@@ -34,23 +34,23 @@ powershell -ExecutionPolicy Bypass -File main.ps1 json test.json
 powershell -ExecutionPolicy Bypass -File main.ps1 7z test.json
 ``` 
 
-- :two: How to use it in ```Powershell```
+- :two: How to use it in Powershell
 
  - Temporarily change policy in Powershell
  
-```ps
+```ps1
 Set-ExecutionPolicy Bypass -Scope Process -Force
 ``` 
 
  - Ability to only download files
 
-```ps
+```ps1
 .\main.ps1 json .\test.json
 ```
 
  - Ability to unzip the file after downloading it
  
-```ps
+```ps1
 .\main.ps1 7z .\test.json
 ``` 
 
