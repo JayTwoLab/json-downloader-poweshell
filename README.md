@@ -1,9 +1,9 @@
 # json-downloader-poweshell
 
-json-downloader for powershell <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```파워셀을 이용한 json-downloader```
+- json-downloader for powershell <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```파워셀을 이용한 json-downloader```
 
-- json-downloader : https://github.com/JayTwoLab/json-downloader
-- json-downloader for powershell : https://github.com/JayTwoLab/json-downloader-poweshell
+   - json-downloader : https://github.com/JayTwoLab/json-downloader
+   - json-downloader for powershell : https://github.com/JayTwoLab/json-downloader-poweshell
 
 ## Feature <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```특징```
 
