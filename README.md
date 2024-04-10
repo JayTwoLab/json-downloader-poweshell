@@ -3,7 +3,7 @@
 	- json-downloader : https://github.com/JayTwoLab/json-downloader
 	- json-downloader for powershell : https://github.com/JayTwoLab/json-downloader-poweshell
 
-## Feature <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```특징```
+## Feature
 - It performs the function of downloading files from the following contents.
 ```json
 {
@@ -13,7 +13,7 @@
 ```
 - :zap: Performs the function of decompressing downloaded file(s)
 
-## Usage <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```사용법```
+## Usage
 
 ### :one: How to use it in Windows Command Prompt
 - Only download files
